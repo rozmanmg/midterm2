@@ -1,1 +1,1 @@
-# Homework assignment 6
+# Midterm 2
